@@ -1,0 +1,1 @@
+/home/amateur_hacker/.config/omarchy/current/theme/neovim.lua

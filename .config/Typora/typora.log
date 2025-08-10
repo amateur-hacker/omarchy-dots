@@ -1,0 +1,86 @@
+INFO 8/9/2025, 9:10:00 AM  launch with argv [/usr/share/typora/Typora, --enable-wayland-ime]
+INFO 8/9/2025, 9:10:00 AM  ------------------start------------------
+DEBUG 8/9/2025, 9:10:00 AM  prepDatabase /home/amateur_hacker/.config/Typora/profile.data
+DEBUG 8/9/2025, 9:10:00 AM  prepDatabase /home/amateur_hacker/.config/Typora/history.data
+INFO 8/9/2025, 9:10:00 AM  OS is linux 6.15.9-zen1-1-zen
+INFO 8/9/2025, 9:10:00 AM  launchFromDiffVersion, pre version is undefined
+INFO 8/9/2025, 9:10:00 AM  start LM in devVersion=false
+INFO 8/9/2025, 9:10:00 AM  [watch L]
+DEBUG 8/9/2025, 9:10:00 AM  prepDatabase /home/amateur_hacker/.config/Typora/JGvOcLNl9e
+INFO 8/9/2025, 9:10:00 AM  ls put SLicense
+DEBUG 8/9/2025, 9:10:00 AM  onUnfillLicense
+DEBUG 8/9/2025, 9:10:00 AM  trailRemains is 15
+INFO 8/9/2025, 9:10:00 AM  [L] installDate is 8/9/2025, trail remains: 15 days
+INFO 8/9/2025, 9:10:00 AM  [watch L] hasL: false
+INFO 8/9/2025, 9:10:00 AM  overwriteThemeFolder
+INFO 8/9/2025, 9:10:00 AM  typora version: 1.10.8
+DEBUG 8/9/2025, 9:10:00 AM  app.openFile
+DEBUG 8/9/2025, 9:10:00 AM  added recovery 1 null  (0)
+DEBUG 8/9/2025, 9:10:00 AM  putAccelerator File -> &File
+DEBUG 8/9/2025, 9:10:00 AM  putAccelerator Edit -> &Edit
+DEBUG 8/9/2025, 9:10:00 AM  putAccelerator Paragraph -> &Paragraph
+DEBUG 8/9/2025, 9:10:00 AM  putAccelerator Format -> F&ormat
+DEBUG 8/9/2025, 9:10:00 AM  putAccelerator View -> &View
+DEBUG 8/9/2025, 9:10:00 AM  putAccelerator Themes -> &Themes
+DEBUG 8/9/2025, 9:10:00 AM  putAccelerator Help -> &Help
+INFO 8/9/2025, 9:10:00 AM  synced recovery
+user-dict.json not found
+INFO 8/9/2025, 9:10:01 AM  [focus] 1
+DEBUG 8/9/2025, 9:10:02 AM  onUnfillLicense
+INFO 8/9/2025, 9:10:02 AM  handle document.loadData
+DEBUG 8/9/2025, 9:10:02 AM  document.loadData 0
+ERROR 8/9/2025, 9:10:02 AM  Error: net::ERR_FILE_NOT_FOUND
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:117533)
+    at SimpleURLLoaderWrapper.emit (node:events:518:28)
+ERROR 8/9/2025, 9:10:02 AM  Error: net::ERR_FILE_NOT_FOUND
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:117533)
+    at SimpleURLLoaderWrapper.emit (node:events:518:28)
+INFO 8/9/2025, 9:10:02 AM  [RenderProcess 1][Log] [UndoManager] reset commandStack
+INFO 8/9/2025, 9:10:02 AM  [RenderProcess 1][Log] reset NodeMap
+DEBUG 8/9/2025, 9:10:02 AM  added recovery 1   (0)
+INFO 8/9/2025, 9:10:02 AM  synced recovery
+INFO 8/9/2025, 9:10:02 AM  [RenderProcess 1][Log] onBecomeActive
+INFO 8/9/2025, 9:10:02 AM  [RenderProcess 1][Log] File.activeWindow = true
+DEBUG 8/9/2025, 9:10:05 AM  added recovery 1   (0)
+INFO 8/9/2025, 9:10:05 AM  synced recovery
+DEBUG 8/9/2025, 9:10:07 AM  added recovery 1  #Hello (6)
+INFO 8/9/2025, 9:10:07 AM  synced recovery
+DEBUG 8/9/2025, 9:10:08 AM  added recovery 1  #Hello
+
+ (8)
+INFO 8/9/2025, 9:10:08 AM  synced recovery
+DEBUG 8/9/2025, 9:10:13 AM  added recovery 1  #Hello
+
+#  (10)
+INFO 8/9/2025, 9:10:13 AM  synced recovery
+DEBUG 8/9/2025, 9:10:15 AM  added recovery 1  #Hel
+
+#  (8)
+INFO 8/9/2025, 9:10:15 AM  synced recovery
+DEBUG 8/9/2025, 9:10:18 AM  added recovery 1  # Hell (6)
+INFO 8/9/2025, 9:10:18 AM  synced recovery
+DEBUG 8/9/2025, 9:10:21 AM  added recovery 1  # Hello1 (8)
+INFO 8/9/2025, 9:10:21 AM  synced recovery
+ERROR 8/9/2025, 9:10:25 AM  Error: net::ERR_FILE_NOT_FOUND
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:117533)
+    at SimpleURLLoaderWrapper.emit (node:events:518:28)
+ERROR 8/9/2025, 9:10:25 AM  Error: net::ERR_FILE_NOT_FOUND
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:117533)
+    at SimpleURLLoaderWrapper.emit (node:events:518:28)
+ERROR 8/9/2025, 9:10:30 AM  Error: net::ERR_FILE_NOT_FOUND
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:117533)
+    at SimpleURLLoaderWrapper.emit (node:events:518:28)
+ERROR 8/9/2025, 9:10:30 AM  Error: net::ERR_FILE_NOT_FOUND
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:117533)
+    at SimpleURLLoaderWrapper.emit (node:events:518:28)
+ERROR 8/9/2025, 9:10:36 AM  Error: net::ERR_FILE_NOT_FOUND
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:117533)
+    at SimpleURLLoaderWrapper.emit (node:events:518:28)
+ERROR 8/9/2025, 9:10:36 AM  Error: net::ERR_FILE_NOT_FOUND
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:117533)
+    at SimpleURLLoaderWrapper.emit (node:events:518:28)
+INFO 8/9/2025, 9:10:43 AM  synced recovery
+INFO 8/9/2025, 9:10:43 AM  ----------------before-quit-----------------
+INFO 8/9/2025, 9:10:43 AM  ------------------will-quit------------------
+INFO 8/9/2025, 9:10:43 AM  -----------------quit------------------
+INFO 8/9/2025, 9:10:43 AM  closeLogging

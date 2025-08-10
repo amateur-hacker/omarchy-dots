@@ -1,0 +1,21 @@
+1Password
+LocalSend
+Obsidian
+Pinta
+Signal
+Typora
+Xournal++
+Basecamp
+Chromium
+Print Settings
+About
+Document Viewer
+Zoom
+Kdenlive
+Audio Settings
+
+# Web Apps
+Google {Contacts,Messages,Photos}
+Whatsapp
+Youtube
+ChatGPT
